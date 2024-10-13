@@ -6,7 +6,8 @@ Clone the Repository:
 
 bash
 Copy code  :
-git clone https://github.com/<your-github-username>/SpeechToSpeechAssistant.git
+git clone https://github.com/meryam38
+/SpeechToSpeechAssistant.git
 
 cd SpeechToSpeechAssistant
 Set Up a Virtual Environment:
